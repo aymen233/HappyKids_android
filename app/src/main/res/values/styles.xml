@@ -1,0 +1,19 @@
+<resources>
+
+    <style name="Widget.Theme.Exerciceprésentation_prof.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.Exerciceprésentation_prof.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+    <style name="input_style" parent="Widget.AppCompat.EditText">
+        <item name="android:padding">@dimen/IT_padding</item>
+        <item name="android:background">@drawable/rectangle_purple_200_50</item>
+        <item name="android:fontFamily">@font/roboto_light</item>
+        <item name="android:layout_marginTop">@dimen/IT_margin_top</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercice(présentation_prof)</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="tv_hello_app">hello app !</string>
+    <string name="tv_signup"><u>S\'inscrire</u></string>
+    <string name="tv_submit">Valider</string>
+    <string name="hint_mail">Saisir votre email</string>
+    <string name="hint_password">Saisir votre mot de passe</string>
+    <string name="hint_confirm_password">confirmer votre mot de passe</string>
+
+</resources>

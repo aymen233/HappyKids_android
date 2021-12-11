@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_hello_app">24sp</dimen>
+    <dimen name="IT_height">50dp</dimen>
+    <dimen name="IT_padding">10dp</dimen>
+    <dimen name="IT_margin_top">30dp</dimen>
+    <dimen name="inteface_padding">20dp</dimen>
+
+
+
+</resources>
